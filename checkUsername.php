@@ -1,6 +1,6 @@
 <?php
 
-    include '../database2.php';
+    include 'database2.php';
     
     $conn = getDatabaseConnection("heroku_d81b70c8a9675ca");
     
