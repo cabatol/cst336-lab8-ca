@@ -2,7 +2,7 @@
 
     include '../database2.php';
     
-    $conn = getDatabaseConnection("lab8");
+    $conn = getDatabaseConnection("heroku_d81b70c8a9675ca");
     
     $username = $_GET['username'];
     
